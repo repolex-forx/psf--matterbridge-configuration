@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/psf/matterbridge-configuration",
+  "@type": "gh:Repository",
+  "gh:name": "matterbridge-configuration",
+  "gh:owner": "psf",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/psf/matterbridge-configuration/commit/099868bb00499b593c325dc1d170d849bb91cd2b",
+      "git:hexsha": "099868bb00499b593c325dc1d170d849bb91cd2b",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
