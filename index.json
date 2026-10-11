@@ -1,0 +1,11 @@
+{
+  "org": "psf",
+  "repo": "matterbridge-configuration",
+  "versions": [
+    {
+      "commit": "099868bb00499b593c325dc1d170d849bb91cd2b",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:21:58.391835+00:00"
+    }
+  ]
+}
